@@ -1,0 +1,10 @@
+.Helloworld {
+    color: darkred;
+
+    background-image: linear-gradient(to right, rgb(0, 94, 255), pink ,rgb(128, 0, 96));
+
+ padding: 200px 200px 200px 200px;
+
+ margin: 200px 400px 200px 400px ;
+
+}
